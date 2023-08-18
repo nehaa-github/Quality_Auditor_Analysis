@@ -15,13 +15,23 @@ assests folder contains the assests/files/backgrounds used while building the da
 Here are the insights/trends from the dashboard:
 
 Sample VS Defects by Employees
+
 Quality Score By Supervisor
+
 Quality Score By Work Loaction
+
 Sample VS Defect By Employees
+
 Employees Performance
+
 Sampling % by Supervisor
+
 Sample %
+
 Defects %
+
 Fatal Error %
+
 Quality Error %
+
 Additional Tooltip for Quality Score by Employees
