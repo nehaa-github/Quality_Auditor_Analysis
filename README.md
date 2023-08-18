@@ -1,9 +1,10 @@
 # Quality_Auditor_Analysis
 This Quality and Auditor Analysis Power BI Dashboard aims to provide insights into quality trends and auditor analysis. These dashboard are intended to assist analysts, managers, and decision-makers in making informed business decisions by visualizing sales performance and budget utilization.
 
-This repository has two main sections: Sales Analysis Dashboards and Budget Analysis Dashboards. Each section focuses on specific aspects of sales trends and budget allocation. These dashboards are designed to be interactive and insightful, helping you uncover valuable insights from data.
+This repository has two main sections: Quality Analysis Dashboards and Auditor Analysis Dashboards. Each section focuses on specific aspects of quality trends. These dashboards are designed to be interactive and insightful, helping you uncover valuable insights from data.
 
-Data-Source file- Budget and Sales Data.xlsx assests folder contains the assests/files/backgrounds used while building the dashboard.
+Data-Source file- Sample Data.xlsx
+assests folder contains the assests/files/backgrounds used while building the dashboard.
 
 📌 Power BI
 
@@ -13,14 +14,14 @@ Data-Source file- Budget and Sales Data.xlsx assests folder contains the assests
 
 Here are the insights/trends from the dashboard:
 
-CY Sales
-Budgeted Sales
-Budget Variance %
-PY Sales
-YoY Sales growth
-Cy Sales by Category
-YoY Sales Growth % vs CY Sales by product
-CY Sales, PY Sales and Budget Sales by month
-CY Sales by Date with future forecast(predicitve analysis)
-Actual Sales , PY Sales and Bugeted Sales
-with additionally designed tooltip
+Sample VS Defects by Employees
+Quality Score By Supervisor
+Quality Score By Work Loaction
+Sample VS Defect By Employees
+Employees Performance
+Sampling % by Supervisor
+Sample %
+Defects %
+Fatal Error %
+Quality Error %
+Additional Tooltip for Quality Score by Employees
