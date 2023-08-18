@@ -3,8 +3,14 @@ This Quality and Auditor Analysis Power BI Dashboard aims to provide insights in
 
 This repository has two main sections: Quality Analysis Dashboards and Auditor Analysis Dashboards. Each section focuses on specific aspects of quality trends. These dashboards are designed to be interactive and insightful, helping you uncover valuable insights from data.
 
+## Repository Structure
+The repository is structured as follows:
+
 Data-Source file- Sample Data.xlsx
+
 assests folder contains the assests/files/backgrounds used while building the dashboard.
+
+## Tools and Technologies Used
 
 📌 Power BI
 
@@ -12,7 +18,7 @@ assests folder contains the assests/files/backgrounds used while building the da
 
 📌 MS Powerpoint(for background)
 
-Here are the insights/trends from the dashboard:
+## Here are the insights/trends from the dashboard:
 
 Sample VS Defects by Employees
 
