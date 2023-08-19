@@ -1,5 +1,5 @@
 # Quality_Auditor_Analysis
-This Quality and Auditor Analysis Power BI Dashboard aims to provide insights into quality trends and auditor analysis. These dashboard are intended to assist analysts, managers, and decision-makers in making informed business decisions by visualizing sales performance and budget utilization.
+This Quality and Auditor Analysis Power BI Dashboard aims to provide insights into quality trends and auditor analysis. These dashboard are intended to assist analysts, managers, and decision-makers in making informed business decisions by visualizing quality performance.
 
 This repository has two main sections: Quality Analysis Dashboards and Auditor Analysis Dashboards. Each section focuses on specific aspects of quality trends. These dashboards are designed to be interactive and insightful, helping you uncover valuable insights from data.
 
